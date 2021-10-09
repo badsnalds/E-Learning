@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fc2a8da-3ea9-4b2f-b236-ae539bda4dd1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1zAiSGcwiWPtANK5lInN9e5kyQP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Rainbow Brackets" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Web-Development\Development" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Web-Development\Development\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fc2a8da-3ea9-4b2f-b236-ae539bda4dd1" name="Default Changelist" comment="" />
+      <created>1633597290266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633597290266</updated>
+      <workItem from="1633597291363" duration="10570000" />
+      <workItem from="1633611861189" duration="1870000" />
+      <workItem from="1633613803339" duration="282000" />
+      <workItem from="1633614136813" duration="873000" />
+      <workItem from="1633615061719" duration="448000" />
+      <workItem from="1633615560981" duration="247000" />
+      <workItem from="1633615849244" duration="83000" />
+      <workItem from="1633659585707" duration="2082000" />
+      <workItem from="1633672707922" duration="2218000" />
+      <workItem from="1633679972050" duration="712000" />
+      <workItem from="1633680772488" duration="1832000" />
+      <workItem from="1633682662209" duration="134000" />
+      <workItem from="1633686525890" duration="482000" />
+      <workItem from="1633687074404" duration="883000" />
+      <workItem from="1633688001401" duration="153000" />
+      <workItem from="1633688197960" duration="1395000" />
+      <workItem from="1633689661224" duration="905000" />
+      <workItem from="1633734947948" duration="1484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
