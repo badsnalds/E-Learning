@@ -117,7 +117,7 @@
                     </div>
                     <div class="col-sm-6">
                         <div class="text-sm-right d-none d-sm-block">
-                            DEVELOPER with <i class="mdi mdi-heart text-danger"></i> BADSNALDS
+                            DEVELOPER with <i class="mdi mdi-heart text-danger"></i> DEVELOPER
                         </div>
                     </div>
                 </div>
